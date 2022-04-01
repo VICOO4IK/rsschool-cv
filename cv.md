@@ -13,7 +13,7 @@
 ********* 
 ## About Me
 
-I am 28 years old, I work as a teacher of mathematics and computer science at the gymnasium, I also work as a coach at [Teen Academy](https://iteen.by/), courses taught are robotics, scratch programming, web technologies and the creation of mobile VR and AR applications and games in Unity. Every year I take more and more new courses because it's all interesting to me, but this year I decided that I need to stop and be an expert in at least one area rather than be in all areas superficially, that's why I decided to enroll in these courses.
+I am 28 years old, I work as a teacher of mathematics and computer science at the gymnasium, I also work as a coach at [ITeen Academy](https://iteen.by/), courses taught are robotics, scratch programming, web technologies and the creation of mobile VR and AR applications and games in Unity. Every year I take more and more new courses because it's all interesting to me, but this year I decided that I need to stop and be an expert in at least one area rather than be in all areas superficially, that's why I decided to enroll in these courses.
 
 
 ********* 
